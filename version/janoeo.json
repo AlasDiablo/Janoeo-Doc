@@ -1,7 +1,7 @@
 {
-    "homepage": "https://alasdiablo.github.io/JANOEO-Doc/download/janoeo.md",
+    "homepage": "https://alasdiablo.github.io/JANOEO-Doc/janoeo-download.md",
     "1.16.3": {
-        "4.4.0.53-experimental": ""
+        "4.4.0.53-experimental": "\n+ add nether world generation\n"
     },
     "promos": {
         "1.16.3-latest": "4.4.0.53-experimental",
