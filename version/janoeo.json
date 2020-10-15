@@ -1,0 +1,10 @@
+{
+    "homepage": "https://alasdiablo.github.io/JANOEO-Doc/download/janoeo.md",
+    "1.16.3": {
+        "4.4.0.53-experimental": ""
+    },
+    "promos": {
+        "1.16.3-latest": "4.4.0.53-experimental",
+        "1.16.3-recommended": "4.4.0.53-experimental"
+    }
+}
