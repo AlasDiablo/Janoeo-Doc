@@ -1,10 +1,10 @@
 {
-    "homepage": "https://alasdiablo.github.io/JANOEO-Doc/janoeo-download.html",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/janoeo/files",
     "1.16.3": {
-        "4.4.0.53-experimental": "\n+ add nether world generation\n"
+        "4.4.0.55-experimental": "\n- Reimplement gravel ore gen (with new option)\n- Reimplement basalt ore texture\n"
     },
     "promos": {
-        "1.16.3-latest": "4.4.0.53-experimental",
-        "1.16.3-recommended": "4.4.0.53-experimental"
+        "1.16.3-latest": "4.4.0.55-experimental",
+        "1.16.3-recommended": "4.4.0.55-experimental"
     }
 }
