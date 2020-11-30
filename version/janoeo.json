@@ -1,10 +1,7 @@
 {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/janoeo/files",
-    "1.16.3": {
-        "4.4.0.58-experimental": "\n- Reimplement end ore generation\n"
-    },
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/janoeo/files"
     "promos": {
-        "1.16.3-latest": "4.4.0.58-experimental",
-        "1.16.3-recommended": "4.4.0.58-experimental"
+        "1.16.3-latest": "4.5.0.63-experimental",
+        "1.16.3-recommended": "4.5.0.63-experimental"
     }
 }
